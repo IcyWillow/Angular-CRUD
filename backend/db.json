@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "BIC Pen Black",
-      "price": 5.89
+      "price": "51.890"
     },
     {
       "id": 2,
@@ -19,16 +19,6 @@
       "name": "Basic Pencil",
       "price": "1.50",
       "id": 4
-    },
-    {
-      "name": "Salada",
-      "price": "Mista",
-      "id": 5
-    },
-    {
-      "name": "Test",
-      "price": "123",
-      "id": 6
     }
   ]
 }
