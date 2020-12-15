@@ -50,7 +50,7 @@ export class ProductService {
     );;
   }
 
-  delete(id: number): Observable<Product> {
+  delete(id): Observable<Product> {
     const url = `${this.baseUrl}/${id}`;
     return this.http.delete<Product>(url).pipe(
       map(obj => obj),
